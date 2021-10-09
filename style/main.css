@@ -112,3 +112,9 @@ header nav a:hover{
 .carrosel-filmes{
     margin-top:5px;
 }
+
+.footer{
+    color: red;
+    text-align: right;
+    margin-right: 20px;
+}
